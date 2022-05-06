@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="furkananter" /> </p>
 
-- 🌱 I’m currently learning **C & React & Solidity**
+- 🌱 I’m currently learning **C & Python & Solidity**
 
-- 💬 Ask me about **js, seo, frontend**
+- 💬 Ask me about **js, seo, blockchain**
 
 - 📫 How to reach me **anterfurkan@gmail.com**
 
