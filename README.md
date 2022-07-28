@@ -24,7 +24,7 @@
 </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
 </a>
 
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
