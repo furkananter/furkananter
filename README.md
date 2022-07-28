@@ -15,11 +15,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> ✅
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
 </a> 
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> ✅
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
 </a> 
 
@@ -27,23 +27,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/> 
 </a>
 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> ✅
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
 </a>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> ✅
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
 </a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> ✅
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> ✅
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"/>
 </a>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> ✅
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/>
 </a>
 
