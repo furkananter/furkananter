@@ -56,11 +56,11 @@
 </a>
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="" alt="illustrator"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/>
 </a>
 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-  <img src="" alt="jasmine"/>
+  <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="jasmine"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -68,51 +68,51 @@
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="" alt="mysql"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
 </a>
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="" alt="photoshop"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop"/>
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="" alt="python"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="" alt="react"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
 </a>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="" alt="reactnative"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative"/>
 </a>
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
 </a>
   
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
 </a>
   
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd"/>
 </a>
 
 </p>
