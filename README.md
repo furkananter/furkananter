@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="border: 1px solid red"> 
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
 </a> 
 
