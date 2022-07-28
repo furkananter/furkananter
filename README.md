@@ -121,6 +121,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkananter&show_icons=true&locale=en&layout=compact" alt="furkananter" />
 </p>
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkananter)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anterfurkan)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkananter/)
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0e2BGit37WzpKQ3Q9ZmmjN?si=805d93d5bc8a4e6f)
