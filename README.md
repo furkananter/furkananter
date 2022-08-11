@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
 </a>
 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
-</a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
@@ -59,10 +56,6 @@
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/>
-</a>
-
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="jasmine"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -97,13 +90,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
 </a>
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative"/>
-</a>
-
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-</a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
