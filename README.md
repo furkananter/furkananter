@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="furkananter" /> </p>
 
-- 🌱 I’m currently learning **React Native & Blockchain**
+- 🌱 I’m currently learning **React Native & Swift**
 
 - 📫 How to reach me **anterfurkan@gmail.com**
 
