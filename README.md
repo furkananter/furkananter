@@ -18,8 +18,12 @@
 <p align="left"> 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src=https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white alt="Swift"/> 
+</a>
+  
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-</a> 
+</a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
