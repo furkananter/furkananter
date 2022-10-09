@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"> 
   <img src=https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white alt="Swift"/> 
 </a>
   
@@ -32,7 +32,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
 </a>
-
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
@@ -93,7 +92,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
 </a>
-
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
