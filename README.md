@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">i love software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="furkananter" /> </p>
 
