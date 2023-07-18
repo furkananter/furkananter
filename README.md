@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="furkananter" /> </p>
 
-- 🌱 I’m a mobile dev 
+- 🌱 I’m a mobile dev
+- Founder of Kroko
+- <p>
+  <a href="https://kroko.social" target="_blank">
+  <img align="center" src="https://www.kroko.social/assets/kroko-new-logo-dark-baf6f95c.png" alt="kroko"/>
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
