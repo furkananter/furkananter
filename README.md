@@ -7,7 +7,7 @@
 - Founder of Kroko
 - <p>
   <a href="https://kroko.social" target="_blank">
-  <img align="center" src="https://www.kroko.social/assets/kroko-new-logo-dark-baf6f95c.png" alt="kroko"/>
+  <img align="center" src="https://www.kroko.social/assets/kroko-new-logo-dark-cf66c043.png" alt="kroko"/>
   </a>
 </p>
 
