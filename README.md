@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="furkananter" /> </p>
 
-- 🌱 I’m a mobile dev
-- Founder of Kroko
+- 🌱 I’m a software eng
 
 
 <h3 align="left">Connect with me:</h3>
