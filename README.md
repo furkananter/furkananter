@@ -12,11 +12,11 @@
 
 - 🔥 **Frontend Developer** specializing in React Native & Next.js
 - 🎯 Creator of **[Ship Mobile Fast](https://shipmobilefast.com)** - React Native Expo boilerplate used by 120+ developers
-- 🏆 **1st Place Winner** in National Innovation Competition (95 projects)
+- 🏆 **1st Place Winner** in university competition with 3 awards
 - 📱 Built **Kroko Social** - Social platform with 6K+ active users
 - 🤖 Passionate about **AI integration** and modern web technologies
 - 🌍 Currently in **Germany** looking for exciting opportunities
-- ⚡ Fun fact: I can ship MVPs from idea to App Store in under 3 weeks!
+- ⚡ Fun fact: I can ship MVPs from idea to App Store in approximately 14 days!
 
 ---
 
@@ -69,15 +69,14 @@
 **React Native Expo Boilerplate for AI Apps**
 - 🎯 Used by **120+ developers and companies** worldwide
 - ⚡ Features: AI integration, authentication, payments, push notifications
-- 🏆 Featured on Product Hunt with 200+ upvotes
 - 💰 Generating recurring revenue from day one
 
 ### 📱 Kroko Social
 **High-Performance Social Networking Platform**
 - 👥 **6,000+ active users** with excellent retention rates
 - 💬 Real-time messaging and video streaming
-- 🏆 **1st place** winner in national competition (95 projects)
-- 🛠️ Built with React Native, Supabase, Node.js
+- 🏆 **1st place** winner in university competition
+- 🛠️ Built with React Native, Supabase, Node.js, Next.js
 
 ---
 
