@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Furkan Anter</h1>
-  <h3>🚀 Frontend Developer & Mobile App Creator</h3>
+  <h3>🚀 Software Developer</h3>
   <p>Building beautiful, scalable apps with React Native & Next.js</p>
   
   <img src="https://komarev.com/ghpvc/?username=furkananter&label=Profile%20views&color=0eb437&style=flat" alt="Profile views" />
