@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔥 **Frontend Developer** specializing in React Native & Next.js
+- 🔥 **Full-Stack Developer** specializing in React Native & Next.js & NodeJS
 - 🎯 Creator of **[Ship Mobile Fast](https://shipmobilefast.com)** - React Native Expo boilerplate used by 120+ developers
 - 🏆 **1st Place Winner** in university competition with 3 awards
 - 📱 Built **Kroko Social** - Social platform with 6K+ active users
