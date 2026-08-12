@@ -2,6 +2,8 @@
 
 Software developer building practical web, mobile, and AI-assisted products.
 
+[![skills.sh](https://skills.sh/b/furkananter/furkananter)](https://skills.sh/furkananter/furkananter)
+
 ## `overengineer`
 
 An Agent Skill that stops AI agents from turning a small task into an architecture project.
